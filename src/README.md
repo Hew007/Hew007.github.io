@@ -14,32 +14,32 @@ tagline: 记录生活，交流想法，分享知识
 heroFullScreen: true
 projects:
   - icon: project
-    name: project name
-    desc: project detailed description
+    name: 实用工具
+    desc: 常用工具集，例如JSON格式化，图片裁剪压缩、图片，音频等文件下载，echarts图配置可视化
     link: https://your.project.link
 
-  - icon: link
-    name: link name
-    desc: link detailed description
-    link: https://link.address
+  # - icon: link
+  #   name: 自定义外链
+  #   desc: link detailed description
+  #   link: https://link.address
 
   - icon: book
-    name: book name
+    name: 微信读书
     desc: Detailed description of the book
-    link: https://link.to.your.book
+    link: https://weread.qq.com
 
-  - icon: article
-    name: article name
-    desc: Detailed description of the article
-    link: https://link.to.your.article
+  # - icon: article
+  #   name: 文章名
+  #   desc: Detailed description of the article
+  #   link: https://link.to.your.article
 
-  - icon: friend
-    name: friend name
-    desc: Detailed description of friend
-    link: https://link.to.your.friend
+  # - icon: friend
+  #   name: friend name
+  #   desc: Detailed description of friend
+  #   link: https://link.to.your.friend
 
   - icon: /logo.svg
-    name: custom item
+    name: 自定义链接
     desc: Detailed description of this custom item
     link: https://link.to.your.friend
 
