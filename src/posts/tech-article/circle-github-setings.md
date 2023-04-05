@@ -1,10 +1,10 @@
 ---
 title: 使用circleci + github实现前端项目自动化构建和部署
 date: 2020-07-05 17:10:28
-categories:
+category:
 - 技术
 - 部署
-tags:
+tag:
 - circleci
 - deploy
 - 前端自动化

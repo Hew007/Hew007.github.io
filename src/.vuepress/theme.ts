@@ -61,10 +61,10 @@ export default hopeTheme({
   locales: {
     "/": {
       // navbar
-      navbar: enNavbar,
+      navbar: zhNavbar,
 
       // sidebar
-      sidebar: enSidebar,
+      sidebar: zhSidebar,
 
       footer: "舍利子的个人博客",
 
@@ -83,12 +83,12 @@ export default hopeTheme({
     /**
      * Chinese locale config
      */
-    "/zh/": {
+    "/en/": {
       // navbar
-      navbar: zhNavbar,
+      navbar: enNavbar,
 
       // sidebar
-      sidebar: zhSidebar,
+      sidebar: enSidebar,
 
       footer: "默认页脚",
 
@@ -96,7 +96,7 @@ export default hopeTheme({
 
       blog: {
         description: "一个前端开发者",
-        intro: "/zh/intro.html",
+        intro: "/cn/intro.html",
       },
 
       // page meta
