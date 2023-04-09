@@ -14,7 +14,20 @@ export const zhSidebar = sidebar({
       text: "文章",
       icon: "note",
       prefix: "posts/",
-      children: "structure",
+      children: [
+        {
+          text: "生活随笔",
+          icon: "flower",
+          prefix: "informal-essay/",
+          children: "structure",
+        },
+        {
+          text: "技术笔记",
+          icon: "any",
+          prefix: "tech-article/",
+          children: "structure",
+        },
+      ],
     },
     "intro",
     "slides",
