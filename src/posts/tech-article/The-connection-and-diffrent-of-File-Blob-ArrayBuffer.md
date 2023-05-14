@@ -1,6 +1,6 @@
 ---
 title: File、Blob、ArrayBuffer等文件类的对象有什么区别和联系
-date: 2022-03-13 20:12:13
+date: 2021-03-13 20:12:13
 category:
 - 知识点
 - 技术
