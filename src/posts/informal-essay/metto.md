@@ -6,8 +6,8 @@ category:
 tag:
   - 座右铭
   - 名言
-star: true
-sticky: true
+# star: true
+# sticky: true
 ---
 
 # 座右铭收藏
