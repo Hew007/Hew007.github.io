@@ -148,7 +148,7 @@ export default hopeTheme({
        * Using Waline
        */
       provider: "Waline",
-      serverURL: "https://nvajllc6.api.lncldglobal.com",
+      serverURL: "https://waline.yunishare.cn",
 
       /**
        * Using artalk
