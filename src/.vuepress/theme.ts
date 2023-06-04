@@ -3,11 +3,11 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://hnhew.gitee.io",
+  hostname: "https://blog.yunishare.cn",
 
   author: {
     name: "Hew.iShare",
-    url: "https://hnhew.gitee.io/blog",
+    url: "https://blog.yunishare.cn/blog",
   },
 
   iconAssets: "iconfont",
@@ -17,13 +17,6 @@ export default hopeTheme({
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
   docsDir: "docs",
-
-  themeColor: {
-    blue: "#2196f3",
-    red: "#f26d6d",
-    green: "#3eaf7c",
-    orange: "#fb9b5f",
-  },
 
   blog: {
     medias: {
