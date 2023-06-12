@@ -16,6 +16,9 @@ export default defineUserConfig({
     //   description: "vuepress-theme-hope 的博客演示",
     // },
   },
+  head: [
+    [ "meta", {  "http-equiv": "Content-Security-Policy", content: "upgrade-insecure-requests" } ],
+  ],
 
   theme,
 
