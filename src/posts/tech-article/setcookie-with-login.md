@@ -1,7 +1,7 @@
 ---
 title: set-cookie与登录
 date:  2021-05-30
-updateDate: 2023-03-09
+description: 'cookie和常用登录之间的关系，整个认证的流程是如何的'
 category:
 - http
 - 知识点
